@@ -55,7 +55,7 @@ body{
     overflow: hidden;
     position: relative;
     border-radius: 15px;
-    background: linear-gradient(#fd878d 0%, #9ce3ff 90%);    background:semi-transparent;
+    background: linear-gradient(#fd878d 0%, #9ce3ff 90%);
     box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 
